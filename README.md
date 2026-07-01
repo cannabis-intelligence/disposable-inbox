@@ -31,7 +31,3 @@ python main.py
 </p>
 
 <p align="center"><i>expired — inbox lifetime ended, generate new address</i></p>
-
----
-
-<p align="center">powered by <a href="https://cannabis-intelligence.github.io">cannabis intelligence</a></p>
